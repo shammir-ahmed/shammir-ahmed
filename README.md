@@ -2,9 +2,9 @@
 <h3 align="center">A passionate web application developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhtanim2&label=Profile%20views&color=0e75b6&style=flat" alt="mhtanim2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shammir-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shammir-ahmed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mehrabtanim" target="blank"><img src="https://img.shields.io/twitter/follow/mehrabtanim?logo=twitter&style=for-the-badge" alt="mehrabtanim" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shammir_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/shammir_ahmed?logo=twitter&style=for-the-badge" alt="shammir_ahmed" /></a> </p>
 
 - 🔭 I’m currently studying at **Greeen University of Bangladesh**
 
