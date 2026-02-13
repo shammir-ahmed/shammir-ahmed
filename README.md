@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shammir-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shammir-ahmed" /> </p>
 <p align="left"> <a href="https://leetcode.com/u/shammirahmed" target="blank"><img src="https://img.shields.io/twitter/follow/shammir_ahmed?logo=twitter&style=for-the-badge" alt="shammir_ahmed" /></a> </p>
-<p align="center">Software Engineer skilled in Laravel, WordPress, Vue.js, React, and Next.js. Experienced in REST APIs, eCommerce, and scalable backend systems. BSc in CSE. Open to opportunities where I can add value.</p>
+<p>Software Engineer skilled in Laravel, WordPress, Vue.js, React, and Next.js. Experienced in REST APIs, eCommerce, and scalable backend systems. BSc in CSE. Open to opportunities where I can add value.</p>
 
 - 💬 Ask me about **| Problem solving | Full Stack | Laravel | WordPress | Vue.js | Machine learning | Deep learning | Data mining.**
 
