@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Shammir Ahmed</h1>
-<h3 align="center">A passionate web application developer from Bangladesh.</h3>
+<h3 align="center">Software Engineer skilled in Laravel, WordPress, Vue.js, React, and Next.js. Experienced in REST APIs, eCommerce, and scalable backend systems. BSc in CSE. Open to opportunities where I can add value.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shammir-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shammir-ahmed" /> </p>
