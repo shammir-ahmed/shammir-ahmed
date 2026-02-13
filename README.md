@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shammir-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="shammir-ahmed" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shammir_ahmed" target="blank"><img src="https://img.shields.io/twitter/follow/shammir_ahmed?logo=twitter&style=for-the-badge" alt="shammir_ahmed" /></a> </p>-
+<p align="left"> <a href="https://leetcode.com/u/shammirahmed" target="blank"><img src="https://img.shields.io/twitter/follow/shammir_ahmed?logo=twitter&style=for-the-badge" alt="shammir_ahmed" /></a> </p>-
 
 - **Executive Web Developer at Rushda Soft.**
 
