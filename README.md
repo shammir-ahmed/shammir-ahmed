@@ -11,19 +11,19 @@
 - ⚡ **I can cope up with team easily.**
 
 <h3 align="left">Connect with me:</h3>
-<p style="display: inline-flex; gap: 10px; align-items: center; flex-wrap: nowrap;">
-  <a href="https://linkedin.com/in/shammir-ahmed" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-
-  <a href="https://www.leetcode.com/shammirahmed" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-
-  <a href="https://www.hackerrank.com/mdshammirahmeda1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/shammir-ahmed"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+    </td>
+    <td>
+      <a href="https://www.leetcode.com/shammirahmed"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/mdshammirahmeda1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
