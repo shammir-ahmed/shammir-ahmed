@@ -26,87 +26,109 @@
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<table>
+  <tr>
+    <!-- Programming Languages -->
+    <td>
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- Frontend -->
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://getbootstrap.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://vuejs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- Backend -->
+    <td>
+      <a href="https://laravel.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- Database -->
+    <td>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- CMS -->
+    <td>
+      <a href="https://wordpress.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://woocommerce.com/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.shopify.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <!-- Tools -->
+    <td>
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://laragon.org/" target="_blank">
+        <img src="https://laragon.org/logo.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.figma.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+      </a>
+    </td>
 
-<!-- Programming Languages -->
-<a href="https://www.php.net/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Frontend -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://vuejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Backend Framework -->
-<a href="https://laravel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Database -->
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- CMS & Ecommerce -->
-<a href="https://wordpress.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://woocommerce.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/woocommerce.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.shopify.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" width="40" height="40"/>
-</a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://laragon.org/" target="_blank">
-<img src="https://laragon.org/logo.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-</a>
-</p>
+  </tr>
+</table>
